@@ -1,5 +1,7 @@
 from tkinter import *
 from PIL import ImageTk, Image
+from datetime import datetime
+import tkinker.messagebox as tmb
 
 def every_100(texts):
     final_text = ""
